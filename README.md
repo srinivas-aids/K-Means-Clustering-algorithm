@@ -23,8 +23,8 @@ Pretict the cluster group of Applicant Income and Loanamount.
 
 ## Program:
 ```
-#DEVELOPED BY: BAIRAV SKANDAN LOHA
-#REG NO: 21000106
+#DEVELOPED : u.srinivas
+#REG NO: 212221230108
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
